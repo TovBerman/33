@@ -1,0 +1,3 @@
+class CfgFunctions {
+    #include "config.cpp"
+};
